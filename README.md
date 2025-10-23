@@ -1,4 +1,4 @@
-# 2qr — Alfred QR Code Generator (Vector-first)
+# 2qr — Alfred QR Code Generator
 
 This workflow wraps the **Nayuki QR Code generator** in an Alfred keyword.
 It lets you type:
