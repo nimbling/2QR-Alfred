@@ -13,7 +13,7 @@ Then it offers optional interactive prompts for:
 - For **Vector**: Border (modules), Light/Dark colors (#RRGGBB), Version range min/max
 - For **Bitmap**: Border (modules), Scale (pixels per module)
 
-The file is saved to `~/Desktop/QR-YYYYMMDD-HHMMSS.svg` or `.png`.
+The file is saved to `~/Desktop/example.svg` or `.png`.
 The script shows a notification and opens the file in Finder.
 
 ## Install steps
